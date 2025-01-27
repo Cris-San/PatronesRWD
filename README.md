@@ -1,4 +1,4 @@
-🌐 Responsive Web Design con CSS Grid y Flexbox
+# 🌐 Responsive Web Design con CSS Grid y Flexbox
 
 Este proyecto explora y demuestra los conceptos de Responsive Web Design utilizando las poderosas herramientas de CSS Grid y Flexbox. 📐✨
 Cada carpeta contiene ejemplos prácticos organizados, con explicaciones claras, archivos index.html, hojas de estilo en CSS y recursos visuales para un aprendizaje completo.
@@ -15,4 +15,14 @@ Archivos:
 index.html
 styles.css
 imagenes/
+
+📂 Flexbox:
+Domina la alineación y distribución de elementos con Flexbox.
+
+Ejemplos: Menús horizontales, sistemas de columnas, centrar elementos.
+Archivos:
+index.html
+styles.css
+imagenes/
+
 
