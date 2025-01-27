@@ -52,5 +52,18 @@ CSS3: Estilos avanzados con Grid y Flexbox.
 
 Herramientas de diseño: Visual Studio Code y herramientas de depuración del navegador.
 
+## 🚀 Cómo usar este proyecto
+Clona este repositorio en tu máquina local:
+bash
+Copiar
+Editar
+git clone https://github.com/tu-usuario/responsive-web-design.git
+Navega a las carpetas para explorar los conceptos:
+bash
+Copiar
+Editar
+cd responsive-web-design
+Abre los archivos index.html en tu navegador para ver cada ejemplo en acción.
+
 
 
