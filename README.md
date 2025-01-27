@@ -43,3 +43,12 @@ Distribución de elementos y control del espacio.
 ### 4. Flexbox avanzado
 Creación de diseños adaptables utilizando flex-grow y flex-shrink.
 Ejercicios prácticos para menús y listas.
+
+## 🛠️ Tecnologías utilizadas
+
+HTML5: Estructuración semántica.
+CSS3: Estilos avanzados con Grid y Flexbox.
+Herramientas de diseño: Visual Studio Code y herramientas de depuración del navegador.
+
+
+
