@@ -47,7 +47,9 @@ Ejercicios prácticos para menús y listas.
 ## 🛠️ Tecnologías utilizadas
 
 HTML5: Estructuración semántica.
+
 CSS3: Estilos avanzados con Grid y Flexbox.
+
 Herramientas de diseño: Visual Studio Code y herramientas de depuración del navegador.
 
 
