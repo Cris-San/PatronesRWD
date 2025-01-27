@@ -73,7 +73,7 @@ Este proyecto es parte de mi aprendizaje continuo en diseño web. ¡Espero que s
 </a>
 
 <a href="https://www.linkedin.com/in/yubercristiansanchezospina/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="margin-right: 15px;">
 </a>
 
 
