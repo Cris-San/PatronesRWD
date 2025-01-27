@@ -11,7 +11,9 @@ El proyecto está organizado en carpetas, y cada una aborda un concepto clave:
 Aprende a utilizar CSS Grid para crear layouts modernos y responsivos con facilidad.
 
 Ejemplos: Diseño de tarjetas, galerías de imágenes, layouts avanzados.
+
 Archivos:
+
 index.html
 styles.css
 imagenes/
@@ -20,7 +22,9 @@ imagenes/
 Domina la alineación y distribución de elementos con Flexbox.
 
 Ejemplos: Menús horizontales, sistemas de columnas, centrar elementos.
+
 Archivos:
+
 index.html
 styles.css
 imagenes/
