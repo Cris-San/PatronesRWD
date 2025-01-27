@@ -68,9 +68,14 @@ Este proyecto es parte de mi aprendizaje continuo en diseño web. ¡Espero que s
 ## 📬 Conéctate conmigo
 ¿Tienes ideas o proyectos donde pueda colaborar? ¡Hablemos! 💬
 
-[![GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)] https://github.com/Cris-San
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white) www.linkedin.com/in/yubercristiansanchezospina
+
+<a href="www.linkedin.com/in/yubercristiansanchezospina" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+</a>
+https://github.com/Cris-San
+
+www.linkedin.com/in/yubercristiansanchezospina
 
 
 
