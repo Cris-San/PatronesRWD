@@ -54,12 +54,24 @@ Herramientas de diseño: Visual Studio Code y herramientas de depuración del na
 
 ## 🚀 Cómo usar este proyecto
 Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/responsive-web-design.git
+git clone git@github.com:Cris-San/PatronesRWD.git
 
 Navega a las carpetas para explorar los conceptos:
-cd responsive-web-design
+cd PatronesRWD
 
 Abre los archivos index.html en tu navegador para ver cada ejemplo en acción.
+
+## 🙌 Agradecimientos
+
+Este proyecto es parte de mi aprendizaje continuo en diseño web. ¡Espero que sea útil para quienes desean dominar CSS Grid y Flexbox! Si tienes sugerencias o preguntas, no dudes en abrir un issue o contactarme. 🌟
+
+## 📬 Conéctate conmigo
+¿Tienes ideas o proyectos donde pueda colaborar? ¡Hablemos! 💬
+
+GitHub: https://github.com/Cris-San
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)] www.linkedin.com/in/yubercristiansanchezospina
+
+
 
 
 
