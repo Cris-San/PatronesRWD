@@ -29,4 +29,17 @@ index.html
 styles.css
 imagenes/
 
+## 📜 Contenido por carpeta
 
+### 1. Introducción a CSS Grid
+Creación de estructuras básicas con grid-template-rows y grid-template-columns.
+Uso de áreas de cuadrícula (grid-template-areas).
+### 2. Patrones avanzados con CSS Grid
+Rejillas responsivas con fr y minmax().
+Adaptación a diferentes tamaños de pantalla con media queries.
+### 3. Flexbox básico
+Entender las propiedades flex-direction, justify-content y align-items.
+Distribución de elementos y control del espacio.
+### 4. Flexbox avanzado
+Creación de diseños adaptables utilizando flex-grow y flex-shrink.
+Ejercicios prácticos para menús y listas.
